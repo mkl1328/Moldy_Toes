@@ -25,42 +25,7 @@ These ended up being developed into the files used for our final Imagine display
 ## EDGE
 These are the files where we implemented mediapipe to do people tracking, because we did not have our table to display at the first convention. We opted for a proof of concept that displayed the visuals while using a different method for input.
 
+The files here are missing from git as they are too large for me to commit. You can find them here for the time being: https://drive.google.com/drive/folders/1-azdZLEIbaKRILwX1t0gtNgCGRsx_KDu?usp=drive_link
+
 ## IMAGINE
 These are the final day of files. Some of them were updated on the day to adapt to issues that arose during the 7 hours of the event.
-
-1. Marker Tracking
-2. Early visuals
-  - slime mold
-  - Particle sims
-    - New project 39 (mel's)
-    - paulas on drive
-
-3. Particle system wrangler
-  - particles folder
-
-4. Audio
-
-5. Calibration tool + Projection Mapping
-
-6. Edge
-  - Hand tracking
-  - Media pipe
-
-7. Lead up + Project assembly
-  - Fuckin around (to be final)
-
-8. Day Of Imagine!
-  - Final files
-  - Slim files
-  - Day of fixes
-
-9. Unused assets
-  - Mold types:
-    - Penecillium
-    - Pink mold
-    - Mucor
-  - texture
-  - trail
-  - whiteboard
-  - fullsim
-  - mainproj
